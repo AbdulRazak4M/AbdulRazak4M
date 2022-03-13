@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbdulRazak4M
-- 🌱 I’m currently learning C language, looking forward to learn Java,Javascript, CSS, HTML,Python.
+- 🌱 I’m currently learning C language, Java,Javascript, CSS, HTML.
 - 📫 You can Reach me by my E-Mail: sohel78m@aol.com.
 
 <!---
